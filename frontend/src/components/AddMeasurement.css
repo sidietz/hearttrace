@@ -1,0 +1,23 @@
+.bb-tooltip td {
+  color: black;
+  background-color: white;
+}
+
+.inputWidget {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  text-align: center;
+}
+
+.inputForm {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  text-align: center;
+}
+
+p {
+  color: red;
+  font-size: x-large;
+}

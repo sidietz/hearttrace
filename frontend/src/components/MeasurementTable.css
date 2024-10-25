@@ -1,0 +1,8 @@
+.bb-tooltip td {
+  color: white;
+  background-color: black;
+}
+
+td {
+  border: 2px solid black;
+}
